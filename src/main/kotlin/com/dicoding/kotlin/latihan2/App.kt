@@ -4,7 +4,7 @@ package com.dicoding.kotlin.latihan2
 
 fun main() {
     //["nama", "nilai"]
-    val mahasiswa1 = arrayOf("Raden Fariz Insan P", 3)
+    val mahasiswa1 = arrayOf("RdFariz", 3)
     val mahasiswa2 = arrayOf("Kokom", 8)
     val mahasiswa3 = arrayOf("Arul", 6)
 
