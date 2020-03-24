@@ -1,6 +1,6 @@
 package com.dicoding.kotlin.latihan4
 
-/* Login dengan PIN  Sesuai typeValidation & History Login*/
+/* Login dengan PIN  Sesuai typeValidation & Menampilkan History Login*/
 
 fun main() {
     val user1 = User("Fariz", 99, "ganjil", mapOf("umur" to 19, "alamat" to "Cirebon"))
