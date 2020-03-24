@@ -1,6 +1,6 @@
 package com.dicoding.kotlin.latihan3
 
-/*APLIKASI MENAMPILKAN JADWAL MAHASISWA PER-HARI*/
+/*APLIKASI MENAMPILKAN JADWAL MAHASISWA HARIAN*/
 
 fun main() {
     var day = 1
