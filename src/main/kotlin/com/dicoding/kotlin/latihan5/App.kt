@@ -1,6 +1,6 @@
 package com.dicoding.kotlin.latihan5
 
-/* Aplikasi kasir simple */
+/* Aplikasi Kasir Simple */
 
 fun main() {
 //  Tambahkan 0 lagi di belakang untuk transaksi yang sukses
