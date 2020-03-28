@@ -2,6 +2,8 @@ package com.dicoding.kotlin.latihan6
 
 import com.dicoding.kotlin.latihan6.utils.printListBelanjaan
 
+/* Aplikasi Keranjang Belanjaan OOP */
+
 abstract class Barang(val namaBarang: String, val typeBarang: String, val hargaBarang: Int) {
     fun getDataBarang(): String {
         return "Nama: $namaBarang, Type: $typeBarang, Harga: $hargaBarang"
